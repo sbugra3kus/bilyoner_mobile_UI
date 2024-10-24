@@ -1,0 +1,8 @@
+[
+	"C:\\Program Files\\Gauge\\bin\\gauge.exe",
+	"run",
+	"--machine-readable",
+	"--hide-suggestion",
+	"--simple-console",
+	"C:/Users/bugra/OneDrive/Desktop/Bilyoner_UI_Automation/specs/example.spec:11"
+]

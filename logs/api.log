@@ -1,0 +1,7 @@
+24-10-2024 19:58:42.440 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+24-10-2024 19:58:42.441 [Gauge] [INFO] Initializing specs cache with 1 specs
+24-10-2024 19:58:42.441 [Gauge] [DEBUG] Adding specs from C:\Users\bugra\OneDrive\Desktop\Bilyoner_UI_Automation\specs\example.spec
+24-10-2024 19:58:42.441 [Gauge] [INFO] Initializing steps cache with 1 steps
+24-10-2024 19:58:42.441 [Gauge] [INFO] Gauge daemon initialized and listening on port: 51594
+24-10-2024 19:58:42.442 [Gauge] [DEBUG] Watching directory: C:\Users\bugra\OneDrive\Desktop\Bilyoner_UI_Automation\specs
+24-10-2024 19:58:42.442 [Gauge] [DEBUG] Found 1 files

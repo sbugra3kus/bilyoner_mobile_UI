@@ -1,0 +1,76 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+log4j:WARN No appenders could be found for logger (io.grpc.netty.shaded.io.netty.util.internal.logging.InternalLoggerFactory).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+{"logLevel":"debug","message":"gauge-java took 729milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 729"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 52643"}
+{"logLevel":"info","message":"Listening on port:52643"}
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'Test.StepImplementation.signInClick' and 'Test.StepImplementation.signInClick'"}
+{"logLevel":"debug","message":"Found Giriþ yap Butonuna Týkla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Test.StepImplementation.done' and 'Test.StepImplementation.done'"}
+{"logLevel":"debug","message":"Found Tamama bas in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Test.StepImplementation.allSports' and 'Test.StepImplementation.allSports'"}
+{"logLevel":"debug","message":"Found Tüm sporlar Butonuna týklandý in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Test.StepImplementation.passwordFieldClick' and 'Test.StepImplementation.passwordFieldClick'"}
+{"logLevel":"debug","message":"Found Þifre kutusuna basma in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Test.StepImplementation.userlogin' and 'Test.StepImplementation.userlogin'"}
+{"logLevel":"debug","message":"Found Check User in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Test.StepImplementation.ecoFligt' and 'Test.StepImplementation.ecoFligt'"}
+{"logLevel":"debug","message":"Found Bet Kontrol in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Test.StepImplementation.footPrint' and 'Test.StepImplementation.footPrint'"}
+{"logLevel":"debug","message":"Found Parmak Ýzi Ýzin in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Test.StepImplementation.betEvent' and 'Test.StepImplementation.betEvent'"}
+{"logLevel":"debug","message":"Found Bahis Eventi Seçildi in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Test.StepImplementation.accountNoWrite' and 'Test.StepImplementation.accountNoWrite'"}
+{"logLevel":"debug","message":"Found Üye No kutusuna {} yazýldý in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Test.StepImplementation.passwordWrite' and 'Test.StepImplementation.passwordWrite'"}
+{"logLevel":"debug","message":"Found Þifre Kutusuna {} yazýldý in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Test.StepImplementation.loginClick' and 'Test.StepImplementation.loginClick'"}
+{"logLevel":"debug","message":"Found Giriþ Yap butonuna Týklandý in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Test.StepImplementation.volleyball' and 'Test.StepImplementation.volleyball'"}
+{"logLevel":"debug","message":"Found Voleybol Seçildi in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Test.StepImplementation.notifAccept' and 'Test.StepImplementation.notifAccept'"}
+{"logLevel":"debug","message":"Found Cookie kapatýldý in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\tBahis Eventi Seçildi : public void betEvent()"}
+{"logLevel":"debug","message":"\tParmak Ýzi Ýzin : public void footPrint()"}
+{"logLevel":"debug","message":"\tTamama bas : public void done() throws InterruptedException"}
+{"logLevel":"debug","message":"\tCheck User : public void userlogin() throws InterruptedException"}
+{"logLevel":"debug","message":"\tÜye No kutusuna {} yazýldý : public void accountNoWrite(String key)"}
+{"logLevel":"debug","message":"\tCookie kapatýldý : public void notifAccept()"}
+{"logLevel":"debug","message":"\tÞifre Kutusuna {} yazýldý : public void passwordWrite(String key)"}
+{"logLevel":"debug","message":"\tGiriþ Yap butonuna Týklandý : public void loginClick()"}
+{"logLevel":"debug","message":"\tBet Kontrol : public void ecoFligt()"}
+{"logLevel":"debug","message":"\tÞifre kutusuna basma : public void passwordFieldClick()"}
+{"logLevel":"debug","message":"\tVoleybol Seçildi : public void volleyball()"}
+{"logLevel":"debug","message":"\tTüm sporlar Butonuna týklandý : public void allSports()"}
+{"logLevel":"debug","message":"\tGiriþ yap Butonuna Týkla : public void signInClick()"}
+!!!!!!!!!!!!!!!!!!!!!!!!!!!Test basliyor!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Eki 24, 2024 8:18:31 ÖS io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+{"logLevel":"debug","message":"Executing 'Cookie kapatýldý' using 'class Test.StepImplementation.notifAccept"}
+{"logLevel":"debug","message":"Executing 'Giriþ Yap butonuna Týklandý' using 'class Test.StepImplementation.loginClick"}
+{"logLevel":"debug","message":"Executing 'Üye No kutusuna {} yazýldý' using 'class Test.StepImplementation.accountNoWrite"}
+{"logLevel":"debug","message":"Executing 'Þifre kutusuna basma' using 'class Test.StepImplementation.passwordFieldClick"}
+{"logLevel":"debug","message":"Executing 'Þifre Kutusuna {} yazýldý' using 'class Test.StepImplementation.passwordWrite"}
+{"logLevel":"debug","message":"Executing 'Giriþ yap Butonuna Týkla' using 'class Test.StepImplementation.signInClick"}
+{"logLevel":"debug","message":"Executing 'Parmak Ýzi Ýzin' using 'class Test.StepImplementation.footPrint"}
+{"logLevel":"debug","message":"Executing 'Check User' using 'class Test.StepImplementation.userlogin"}
+User Giris yapti
+{"logLevel":"debug","message":"Executing 'Tüm sporlar Butonuna týklandý' using 'class Test.StepImplementation.allSports"}
+{"logLevel":"debug","message":"Executing 'Voleybol Seçildi' using 'class Test.StepImplementation.volleyball"}
+{"logLevel":"debug","message":"Executing 'Bahis Eventi Seçildi' using 'class Test.StepImplementation.betEvent"}
+Ilk Secenek oynanabilir Degil. MS1 Secildi
+{"logLevel":"debug","message":"Executing 'Bet Kontrol' using 'class Test.StepImplementation.ecoFligt"}
+Secilen Macin Ev Sahibi Metalac Takovo
+Bet Secildi Metalac Takovo - Kýzýl Yýldýz
+{"logLevel":"debug","message":"Killing Java runner..."}
+{"logLevel":"debug","message":"Stopping execution pool..."}
+{"logLevel":"debug","message":"Shutting down grpc server..."}
+{"logLevel":"debug","message":"Runner killed gracefully."}
