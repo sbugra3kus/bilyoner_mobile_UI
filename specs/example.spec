@@ -12,9 +12,9 @@ UI Bilyoner
 ---------------------------
 *Cookie kapatıldı
 *Giriş Yap butonuna Tıklandı
-*Üye No kutusuna "51972906" yazıldı
+*Üye No kutusuna "kullanıcı_kodu" yazıldı
 *Şifre kutusuna basma
-*Şifre Kutusuna "16Sb05@1" yazıldı
+*Şifre Kutusuna "sifre" yazıldı
 *Giriş yap Butonuna Tıkla
 *Parmak İzi İzin
 *Check User

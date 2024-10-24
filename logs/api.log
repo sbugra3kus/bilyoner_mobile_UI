@@ -5,3 +5,78 @@
 24-10-2024 19:58:42.441 [Gauge] [INFO] Gauge daemon initialized and listening on port: 51594
 24-10-2024 19:58:42.442 [Gauge] [DEBUG] Watching directory: C:\Users\bugra\OneDrive\Desktop\Bilyoner_UI_Automation\specs
 24-10-2024 19:58:42.442 [Gauge] [DEBUG] Found 1 files
+24-10-2024 22:27:05.934 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+24-10-2024 22:27:05.935 [Gauge] [INFO] Initializing specs cache with 1 specs
+24-10-2024 22:27:05.935 [Gauge] [DEBUG] Adding specs from C:\Users\bugra\OneDrive\Desktop\Bilyoner_UI_Automation\specs\example.spec
+24-10-2024 22:27:05.935 [Gauge] [INFO] Initializing steps cache with 1 steps
+24-10-2024 22:27:05.935 [Gauge] [INFO] Gauge daemon initialized and listening on port: 57194
+24-10-2024 22:27:05.936 [Gauge] [DEBUG] Watching directory: C:\Users\bugra\OneDrive\Desktop\Bilyoner_UI_Automation\specs
+24-10-2024 22:27:05.936 [Gauge] [DEBUG] Found 1 files
+24-10-2024 22:27:11.204 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Cookie kapatıldı"}
+24-10-2024 22:27:11.204 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Cookie kapatıldı" parameterizedStepValue:"Cookie kapatıldı"}}
+24-10-2024 22:27:11.211 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Giriş Yap butonuna Tıklandı"}
+24-10-2024 22:27:11.211 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Giriş Yap butonuna Tıklandı" parameterizedStepValue:"Giriş Yap butonuna Tıklandı"}}
+24-10-2024 22:27:11.213 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Üye No kutusuna \"51972906\" yazıldı"}
+24-10-2024 22:27:11.213 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Üye No kutusuna {} yazıldı" parameterizedStepValue:"Üye No kutusuna <51972906> yazıldı" parameters:"51972906"}}
+24-10-2024 22:27:11.215 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Üye No kutusuna <key> yazıldı"}
+24-10-2024 22:27:11.215 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Üye No kutusuna {} yazıldı" parameterizedStepValue:"Üye No kutusuna <key> yazıldı" parameters:"key"}}
+24-10-2024 22:27:11.215 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Şifre kutusuna basma"}
+24-10-2024 22:27:11.215 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Şifre kutusuna basma" parameterizedStepValue:"Şifre kutusuna basma"}}
+24-10-2024 22:27:11.215 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Şifre Kutusuna \"16Sb05@1\" yazıldı"}
+24-10-2024 22:27:11.215 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Şifre Kutusuna {} yazıldı" parameterizedStepValue:"Şifre Kutusuna <16Sb05@1> yazıldı" parameters:"16Sb05@1"}}
+24-10-2024 22:27:11.216 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Şifre Kutusuna <key> yazıldı"}
+24-10-2024 22:27:11.216 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Şifre Kutusuna {} yazıldı" parameterizedStepValue:"Şifre Kutusuna <key> yazıldı" parameters:"key"}}
+24-10-2024 22:27:11.216 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Giriş yap Butonuna Tıkla"}
+24-10-2024 22:27:11.216 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Giriş yap Butonuna Tıkla" parameterizedStepValue:"Giriş yap Butonuna Tıkla"}}
+24-10-2024 22:27:11.217 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Parmak İzi İzin"}
+24-10-2024 22:27:11.217 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Parmak İzi İzin" parameterizedStepValue:"Parmak İzi İzin"}}
+24-10-2024 22:27:11.217 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Check User"}
+24-10-2024 22:27:11.217 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Check User" parameterizedStepValue:"Check User"}}
+24-10-2024 22:27:11.217 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Tüm sporlar Butonuna tıklandı"}
+24-10-2024 22:27:11.217 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Tüm sporlar Butonuna tıklandı" parameterizedStepValue:"Tüm sporlar Butonuna tıklandı"}}
+24-10-2024 22:27:11.218 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Voleybol Seçildi"}
+24-10-2024 22:27:11.218 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Voleybol Seçildi" parameterizedStepValue:"Voleybol Seçildi"}}
+24-10-2024 22:27:11.219 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Bahis Eventi Seçildi"}
+24-10-2024 22:27:11.219 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Bahis Eventi Seçildi" parameterizedStepValue:"Bahis Eventi Seçildi"}}
+24-10-2024 22:27:11.220 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Bet Kontrol"}
+24-10-2024 22:27:11.220 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Bet Kontrol" parameterizedStepValue:"Bet Kontrol"}}
+24-10-2024 22:27:15.704 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Üye No kutusuna \"k\" yazıldı"}
+24-10-2024 22:27:15.704 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Üye No kutusuna {} yazıldı" parameterizedStepValue:"Üye No kutusuna <k> yazıldı" parameters:"k"}}
+24-10-2024 22:27:16.681 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Üye No kutusuna \"ku\" yazıldı"}
+24-10-2024 22:27:16.681 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Üye No kutusuna {} yazıldı" parameterizedStepValue:"Üye No kutusuna <ku> yazıldı" parameters:"ku"}}
+24-10-2024 22:27:17.075 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Üye No kutusuna \"kul\" yazıldı"}
+24-10-2024 22:27:17.075 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Üye No kutusuna {} yazıldı" parameterizedStepValue:"Üye No kutusuna <kul> yazıldı" parameters:"kul"}}
+24-10-2024 22:27:17.236 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Üye No kutusuna \"kull\" yazıldı"}
+24-10-2024 22:27:17.236 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Üye No kutusuna {} yazıldı" parameterizedStepValue:"Üye No kutusuna <kull> yazıldı" parameters:"kull"}}
+24-10-2024 22:27:17.370 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Üye No kutusuna \"kulla\" yazıldı"}
+24-10-2024 22:27:17.371 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Üye No kutusuna {} yazıldı" parameterizedStepValue:"Üye No kutusuna <kulla> yazıldı" parameters:"kulla"}}
+24-10-2024 22:27:17.500 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Üye No kutusuna \"kullan\" yazıldı"}
+24-10-2024 22:27:17.500 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Üye No kutusuna {} yazıldı" parameterizedStepValue:"Üye No kutusuna <kullan> yazıldı" parameters:"kullan"}}
+24-10-2024 22:27:17.739 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Üye No kutusuna \"kullanı\" yazıldı"}
+24-10-2024 22:27:17.739 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Üye No kutusuna {} yazıldı" parameterizedStepValue:"Üye No kutusuna <kullanı> yazıldı" parameters:"kullanı"}}
+24-10-2024 22:27:17.882 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Üye No kutusuna \"kullanıc\" yazıldı"}
+24-10-2024 22:27:17.882 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Üye No kutusuna {} yazıldı" parameterizedStepValue:"Üye No kutusuna <kullanıc> yazıldı" parameters:"kullanıc"}}
+24-10-2024 22:27:17.956 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Üye No kutusuna \"kullanıcı\" yazıldı"}
+24-10-2024 22:27:17.956 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Üye No kutusuna {} yazıldı" parameterizedStepValue:"Üye No kutusuna <kullanıcı> yazıldı" parameters:"kullanıcı"}}
+24-10-2024 22:27:23.046 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Üye No kutusuna \"kullanıcı_\" yazıldı"}
+24-10-2024 22:27:23.046 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Üye No kutusuna {} yazıldı" parameterizedStepValue:"Üye No kutusuna <kullanıcı_> yazıldı" parameters:"kullanıcı_"}}
+24-10-2024 22:27:23.841 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Üye No kutusuna \"kullanıcı_k\" yazıldı"}
+24-10-2024 22:27:23.842 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Üye No kutusuna {} yazıldı" parameterizedStepValue:"Üye No kutusuna <kullanıcı_k> yazıldı" parameters:"kullanıcı_k"}}
+24-10-2024 22:27:24.046 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Üye No kutusuna \"kullanıcı_ko\" yazıldı"}
+24-10-2024 22:27:24.047 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Üye No kutusuna {} yazıldı" parameterizedStepValue:"Üye No kutusuna <kullanıcı_ko> yazıldı" parameters:"kullanıcı_ko"}}
+24-10-2024 22:27:24.226 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Üye No kutusuna \"kullanıcı_kod\" yazıldı"}
+24-10-2024 22:27:24.226 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Üye No kutusuna {} yazıldı" parameterizedStepValue:"Üye No kutusuna <kullanıcı_kod> yazıldı" parameters:"kullanıcı_kod"}}
+24-10-2024 22:27:24.454 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Üye No kutusuna \"kullanıcı_kodu\" yazıldı"}
+24-10-2024 22:27:24.454 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Üye No kutusuna {} yazıldı" parameterizedStepValue:"Üye No kutusuna <kullanıcı_kodu> yazıldı" parameters:"kullanıcı_kodu"}}
+24-10-2024 22:27:28.643 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Şifre Kutusuna \"s\" yazıldı"}
+24-10-2024 22:27:28.643 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Şifre Kutusuna {} yazıldı" parameterizedStepValue:"Şifre Kutusuna <s> yazıldı" parameters:"s"}}
+24-10-2024 22:27:29.201 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Şifre Kutusuna \"si\" yazıldı"}
+24-10-2024 22:27:29.201 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Şifre Kutusuna {} yazıldı" parameterizedStepValue:"Şifre Kutusuna <si> yazıldı" parameters:"si"}}
+24-10-2024 22:27:29.453 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Şifre Kutusuna \"sif\" yazıldı"}
+24-10-2024 22:27:29.453 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Şifre Kutusuna {} yazıldı" parameterizedStepValue:"Şifre Kutusuna <sif> yazıldı" parameters:"sif"}}
+24-10-2024 22:27:29.655 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Şifre Kutusuna \"sifr\" yazıldı"}
+24-10-2024 22:27:29.655 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Şifre Kutusuna {} yazıldı" parameterizedStepValue:"Şifre Kutusuna <sifr> yazıldı" parameters:"sifr"}}
+24-10-2024 22:27:29.836 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Şifre Kutusuna \"sifre\" yazıldı"}
+24-10-2024 22:27:29.836 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Şifre Kutusuna {} yazıldı" parameterizedStepValue:"Şifre Kutusuna <sifre> yazıldı" parameters:"sifre"}}
+24-10-2024 22:28:14.298 [Gauge] [DEBUG] Spec file added / modified: C:\Users\bugra\OneDrive\Desktop\Bilyoner_UI_Automation\specs\example.spec
+24-10-2024 22:28:14.300 [Gauge] [DEBUG] Spec file added / modified: C:\Users\bugra\OneDrive\Desktop\Bilyoner_UI_Automation\specs\example.spec
